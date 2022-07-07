@@ -6,3 +6,7 @@ Joaquin Nakle
 Jose Gonzalez
 
 prueba conflicto
+
+escrito desde github
+
+salio todo joya!
