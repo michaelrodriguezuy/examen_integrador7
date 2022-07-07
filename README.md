@@ -1,6 +1,6 @@
 # examen_integrador
 
-Michael
+Michael Rodriguez
 Ignacio Lima
-Joaquin
-Jose
+Joaquin Nakle
+Jose Gonzalez
